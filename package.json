@@ -1,0 +1,17 @@
+{
+  "name": "com.greenbuttongames.scene-material-analyzer",
+  "displayName": "Scene Material Analyzer",
+  "description": "Analyze materials used in Unity scenes",
+  "version": "0.1.0",
+  "unity": "2019.1",
+  "license": "MIT",
+  "author": "Vanifatov Vlad (https://github.com/vanifatovvlad)",
+  "homepage": "https://github.com/vanifatovvlad/SceneMaterialAnalyzer#readme",
+  "keywords": [
+    "unity",
+    "unity3d",
+    "editor-extension",
+    "tool"
+  ],
+  "dependencies": {}
+}
